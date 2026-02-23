@@ -28,8 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Toluca, Estado de México"
+  location_link    :   "https://share.google/oTPrJt3fTLNdn9s0n"
   employer         : "Facultad de Ciencias - UAEMEX"
-  uri              : "https://share.google/oTPrJt3fTLNdn9s0n"
+  uri              : # 
   email            : "jmdavilad@uaemex.mx" 
 
   # Academic websites
