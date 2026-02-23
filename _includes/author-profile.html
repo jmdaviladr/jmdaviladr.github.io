@@ -24,11 +24,11 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
-{% if author.location %}
-<li class="author__desktop">
-  <i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{% if author.location_link %}<a href="{{ author.location_link }}" target="_blank" rel="noopener">{{ author.location }}</a>{% else %}{{ author.location }}{% endif %}
-</li>
-{% endif %}
+      {% if author.location %}
+        <li class="author__desktop">
+          <i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{% if author.location_link %}<a href="{{ author.location_link }}" target="_blank" rel="noopener">{{ author.location }}</a>{% else %}{{ author.location }}{% endif %}
+        </li>
+      {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
