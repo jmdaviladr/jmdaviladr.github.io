@@ -23,7 +23,7 @@ repository               : "jmdaviladr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "RF_JMDD.png"
+  avatar           : "feynman_square_crop.png"
   name             : "J. Manuel Dávila D."
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
