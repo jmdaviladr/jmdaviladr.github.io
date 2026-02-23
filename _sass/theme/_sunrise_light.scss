@@ -1,31 +1,29 @@
 /* ==========================================================================
-   SUNRISE THEME - LIGHT VERSION
+   SUNRISE THEME - LIGHT VERSION (custom Solarized/Minima-like)
    ========================================================================== */
-/* Color codes used for the theme */
-/* Solarized Light-like palette */
-$primary-color  : #268bd2;   // azul solarized
-$background     : #fdf6e3;   // crema
-$text           : #657b83;   // texto gris-azulado
+
+/* Paleta tipo Solarized Light */
+$primary-color  : #268bd2;   // azul
+$background     : #fdf6e3;   // crema (fondo)
+$text           : #657b83;   // texto base gris-azulado
 $text-muted     : #93a1a1;   // texto secundario
 $footer         : #eee8d5;   // footer crema más oscuro
 
-
-//$primary-color              : #fc3a52;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
 $lighter-primary-color      : mix(#fff, $primary-color, 90%);
-//$background                 : #e8d5b7;
+
 $background-light           : mix(#fff, $background, 20%);
-$background-lighter        : #ffffff;
-//$text                      : #000000;
-//$text-muted                : #0e2431;
-$link                      : mix(#000, $primary-color, 10%);
-$link-dark                 : mix(#000, $link, 25%);
-$link-light                : mix(#fff, $link, 25%);
-//$footer                    : #f9b248;
-$border                    : mix(#000, $background, 20%);
-$border-dark               : mix(#000, $background, 30%);
+$background-lighter         : #ffffff;
+
+/* CLAVE: links deben ser el azul (no mezcla hacia negro) */
+$link                      : $primary-color;
+$link-dark                 : mix(#000, $link, 15%);
+$link-light                : mix(#fff, $link, 15%);
+
+$border                    : mix(#000, $background, 18%);
+$border-dark               : mix(#000, $background, 28%);
 
 /* Color codes used for the site */
 $danger-color               : #cc6666;
@@ -44,28 +42,54 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Light theme for the site */
+/* Light theme variables */
 :root {
-    --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$footer};
-    --global-border-color               : #{$border};
-    --global-dark-border-color          : #{$border-dark};
-    --global-code-background-color      : #{$background-light};
-    --global-code-text-color            : #{$text-muted};
-    --global-fig-caption-color          : #{$text-muted};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-light};
-    --global-link-color-visited         : #{$link-dark};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$text-muted};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #{$text-muted};
-    --global-thead-color                : #{$background-light};
+  --global-base-color                 : #{$primary-color};
+  --global-bg-color                   : #{$background};
+  --global-footer-bg-color            : #{$footer};
+  --global-border-color               : #{$border};
+  --global-dark-border-color          : #{$border-dark};
+  --global-code-background-color      : #{$background-light};
+  --global-code-text-color            : #{$text-muted};
+  --global-fig-caption-color          : #{$text-muted};
+
+  --global-link-color                 : #{$link};
+  --global-link-color-hover           : #{$link-light};
+  --global-link-color-visited         : #{$link-dark};
+
+  --global-masthead-link-color        : #{$text};
+  --global-masthead-link-color-hover  : #{$text-muted};
+
+  --global-text-color                 : #{$text};
+  --global-text-color-light           : #{$text-muted};
+  --global-thead-color                : #{$background-light};
 }
 
 .page__footer-follow .social-icons i,
 .page__footer-follow .social-icons .svg-inline--fa {
-    color: inherit;
+  color: inherit;
 }
 
+/* ==========================================================================
+   OVERRIDE “Minima-like”: títulos azules
+   (esto es lo que te falta para que se vea como la 3ra imagen)
+   ========================================================================== */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6,
+.page__title,
+.archive__item-title a {
+  color: var(--global-link-color);
+}
+
+.page__content h1 a,
+.page__content h2 a,
+.page__content h3 a,
+.page__content h4 a,
+.page__content h5 a,
+.page__content h6 a {
+  color: var(--global-link-color);
+}
