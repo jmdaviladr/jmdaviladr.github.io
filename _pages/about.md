@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Dr. José Manuel Dávila Dávila
 
 El **Dr. José Manuel Dávila Dávila** es Profesor–Investigador de la **Facultad de Ciencias** en la **Universidad Autónoma del Estado de México (UAEMéx)**. Su formación en física, con una orientación sólida en **Física Matemática**, sustenta una agenda académica centrada en la estructura conceptual y formal de las teorías modernas de campos, con especial énfasis en **electrodinámica no lineal**, **teoría cuántica de campos** y problemas relacionados con **gravedad cuántica**.
 
