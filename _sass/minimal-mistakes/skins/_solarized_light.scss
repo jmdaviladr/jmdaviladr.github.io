@@ -1,0 +1,23 @@
+/* Solarized Dark */
+$base03:#002b36; $base02:#073642; $base01:#586e75; $base00:#657b83;
+$base0:#839496;  $base1:#93a1a1;  $base2:#eee8d5;  $base3:#fdf6e3;
+
+$blue:#268bd2;
+
+$background-color: $base03;
+$text-color:       $base0;
+$muted-text-color: $base01;
+
+$primary-color:    $blue;
+$link-color:       lighten($blue, 8%);
+$link-color-hover: lighten($blue, 18%);
+
+$border-color:     $base02;
+$code-background-color: $base02;
+$code-text-color:  $base1;
+
+$masthead-background-color: $base03;
+$footer-background-color:   $base03;
+$navicon-link-color:        lighten($blue, 8%);
+
+$h-color: $base1;
