@@ -40,14 +40,6 @@ Líneas y temas de interés
 
 ---
 
-Identificadores y contacto
-======
-* **ORCID:** (coloca aquí tu enlace ORCID)  
-* **E-mail:** (coloca aquí tu e-mail)  
-* **Telegram:** (coloca aquí tu usuario o enlace)
-
----
-
 Docencia
 ======
 Cursos impartidos (nivel licenciatura y/o posgrado, según corresponda):
