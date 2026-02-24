@@ -71,15 +71,8 @@ Publicaciones
 {% endfor %}
 </ul>
 
-Talks
-======
-<ul>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-</ul>
 
-Teaching (materiales / entradas)
+Docencia (materiales / entradas)
 ======
 <ul>
 {% for post in site.teaching reversed %}
