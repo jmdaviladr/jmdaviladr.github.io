@@ -9,56 +9,88 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Perfil
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Profesor–Investigador en la **Facultad de Ciencias (UAEMéx)**.  
+Mi labor académica se desarrolla en el marco del **Cuerpo Académico: Física Matemática y Gravitación**, con interés en la estructura conceptual y formal de teorías de campos, en particular en **electrodinámica no lineal**, **teoría de campos cuánticos** y **gravedad cuántica**.
 
-Work experience
+---
+
+Formación académica
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Doctorado** — Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH)  
+* **Maestría** — Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH)  
+* **Licenciatura** — Facultad de Ciencias, Universidad Autónoma del Estado de México (UAEMéx)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+---
+
+Adscripción
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Profesor–Investigador**, Facultad de Ciencias — **Universidad Autónoma del Estado de México (UAEMéx)**  
+* **Cuerpo Académico:** Física Matemática y Gravitación  
 
-Publications
+---
+
+Líneas y temas de interés
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Electrodinámica no lineal  
+* Teoría de Campos Cuánticos  
+* Gravedad Cuántica  
+
+---
+
+Identificadores y contacto
+======
+* **ORCID:** (coloca aquí tu enlace ORCID)  
+* **E-mail:** (coloca aquí tu e-mail)  
+* **Telegram:** (coloca aquí tu usuario o enlace)
+
+---
+
+Docencia
+======
+Cursos impartidos (nivel licenciatura y/o posgrado, según corresponda):
+
+* Matemáticas básicas  
+* Física Conceptual  
+* Electricidad y Magnetismo  
+* Métodos Matemáticos I  
+* Métodos Matemáticos II  
+* Electrodinámica  
+* Física Cuántica  
+* Electrodinámica Cuántica  
+* Teoría de Campos Cuánticos  
+
+---
+
+Organización académica y divulgación
+======
+* Organización de eventos académicos y de divulgación  
+* **Seminario Multidisciplinario de Divulgación Científica de Vanguardia** (organización y coordinación)
+
+---
+
+Publicaciones
+======
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+Teaching (materiales / entradas)
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
