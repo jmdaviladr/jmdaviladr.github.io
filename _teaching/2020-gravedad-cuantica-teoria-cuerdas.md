@@ -9,7 +9,6 @@ location: "Toluca, México"
 ---
 
 **Estudiante:** Antonio Carlos Samaniego Flores  
-**Grado:** Licenciatura en Física  
 
 
 ### Descripción
