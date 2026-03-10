@@ -9,6 +9,7 @@ location: "Toluca, México"
 ---
 
 **Estudiante:** Luis Gerardo Ramírez Archundia
+
 **Grado:** Licenciatura en Física
 
 **Directores de tesis**
