@@ -17,11 +17,11 @@ location: "Toluca, México"
 
 ### Descripción
 
-En esta tesis se estudia la combinación de las simetrías **CP** y **Friedberg-Lee (FL)** en el sector de neutrinos, usando texturas para las matrices de masa con el objetivo de reducir el número de parámetros libres. El resultado central del trabajo consiste en la obtención de una **matriz de masa automáticamente compatible con cada textura viable para CP generalizada en presencia de la simetría de Friedberg-Lee**. :contentReference[oaicite:1]{index=1}  
+En esta tesis se estudia la combinación de las simetrías **CP** y **Friedberg-Lee (FL)** en el sector de neutrinos, usando texturas para las matrices de masa con el objetivo de reducir el número de parámetros libres. El resultado central del trabajo consiste en la obtención de una **matriz de masa automáticamente compatible con cada textura viable para CP generalizada en presencia de la simetría de Friedberg-Lee**.  
 
-El trabajo parte del estudio de neutrinos, oscilaciones de neutrinos y simetrías discretas, para después analizar la simetría de Friedberg-Lee, las transformaciones CP generalizadas y las texturas relevantes. Posteriormente se revisa el estatus experimental de los parámetros de oscilación y se obtienen nuevos parámetros asociados a la combinación de las simetrías CP y FL. :contentReference[oaicite:2]{index=2}  
+El trabajo parte del estudio de neutrinos, oscilaciones de neutrinos y simetrías discretas, para después analizar la simetría de Friedberg-Lee, las transformaciones CP generalizadas y las texturas relevantes. Posteriormente se revisa el estatus experimental de los parámetros de oscilación y se obtienen nuevos parámetros asociados a la combinación de las simetrías CP y FL. 
 
-En el desarrollo también se analiza en particular la **textura V**, junto con la llamada **hipótesis fuerte de Friedberg-Lee**, encontrando una correlación fuerte entre la fase de Dirac y el ángulo atmosférico para ambos ordenamientos de masa. Asimismo, se discuten predicciones para oscilaciones en materia y para el decaimiento doble beta sin neutrinos. :contentReference[oaicite:3]{index=3}  
+En el desarrollo también se analiza en particular la **textura V**, junto con la llamada **hipótesis fuerte de Friedberg-Lee**, encontrando una correlación fuerte entre la fase de Dirac y el ángulo atmosférico para ambos ordenamientos de masa. Asimismo, se discuten predicciones para oscilaciones en materia y para el decaimiento doble beta sin neutrinos.
 
 ### Contenido del trabajo
 
