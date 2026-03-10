@@ -8,10 +8,9 @@ date: 2020-11-01
 location: "Toluca, México"
 ---
 
-
 **Estudiante:** Antonio Carlos Samaniego Flores  
 **Grado:** Licenciatura en Física  
-**Año:** 2020  
+
 
 ### Descripción
 
