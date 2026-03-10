@@ -8,7 +8,7 @@ date: 2025-06-30
 location: "Toluca, México"
 ---
 
-**Estudiante:** Luis Gerardo Ramírez Archundia
+**Estudiante:** Luis Gerardo Ramírez Archundia 
 **Grado:** Licenciatura en Física  
 
 **Directores de tesis**
