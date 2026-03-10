@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% unless page.collection == 'teaching' %}
-  {% if post.type %}
-    <p class="archive__item-type">{{ post.type }}</p>
-  {% endif %}
-{% endunless %}
-
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
