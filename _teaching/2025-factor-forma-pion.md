@@ -8,8 +8,6 @@ date: 2025-06-30
 location: "Toluca, México"
 ---
 
-## Dirección de tesis de licenciatura
-
 **Estudiante:** Luis Gerardo Ramírez Archundia  
 
 **Título de la tesis:**  
