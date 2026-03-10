@@ -8,8 +8,6 @@ date: 2023-06-01
 location: "Toluca, México"
 ---
 
-## Dirección de tesis de licenciatura
-
 **Estudiante:** Fabiola Correa Padilla  
 **Título de la tesis:** *Función de masa y las constantes de renormalización de la Cromodinámica Cuántica*  
 **Grado:** Licenciatura en Física  
