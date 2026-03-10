@@ -8,8 +8,7 @@ date: 2025-06-30
 location: "Toluca, México"
 ---
 
-**Estudiante:** Luis Gerardo Ramírez Archundia  
-**Título de la tesis:**  *Determinación del factor de forma del pion*
+**Estudiante:** Luis Gerardo Ramírez Archundia
 **Grado:** Licenciatura en Física  
 
 **Directores de tesis**
