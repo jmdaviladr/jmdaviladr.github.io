@@ -38,7 +38,7 @@ La tesis desarrolla los siguientes temas principales:
 
 ### Resultado principal
 
-El trabajo obtiene una **parametrización general para las matrices de masa compatibles con transformaciones de CP generalizada descritas por texturas de dos ceros que son simultáneamente invariantes ante la simetría de Friedberg-Lee**. Este resultado es señalado explícitamente en la tesis como el resultado central de la investigación. :contentReference[oaicite:4]{index=4}  
+El trabajo obtiene una **parametrización general para las matrices de masa compatibles con transformaciones de CP generalizada descritas por texturas de dos ceros que son simultáneamente invariantes ante la simetría de Friedberg-Lee**. Este resultado es señalado explícitamente en la tesis como el resultado central de la investigación. 
 
 ### Documento
 
