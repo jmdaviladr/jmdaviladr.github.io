@@ -10,7 +10,6 @@ location: "Toluca, México"
 
 
 **Estudiante:** Antonio Carlos Samaniego Flores  
-**Título de la tesis:** *Gravedad cuántica en teoría de cuerdas*  
 **Grado:** Licenciatura en Física  
 **Año:** 2020  
 
