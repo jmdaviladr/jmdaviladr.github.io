@@ -9,7 +9,7 @@ location: "Toluca, México"
 ---
 
 **Estudiante:** Alejandro Rosas Díaz  
-**Grado:** Licenciatura en Física  
+
 
 ### Descripción
 
