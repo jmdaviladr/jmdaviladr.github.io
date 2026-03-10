@@ -9,7 +9,6 @@ location: "Toluca, México"
 ---
 
 **Estudiante:** Alejandro Rosas Díaz  
-**Título de la tesis:** *Modelo de matriz de masa de neutrinos compatible con simetría CP + Friedberg-Lee*  
 **Grado:** Licenciatura en Física  
 **Fecha:** 22 de septiembre de 2021  
 
