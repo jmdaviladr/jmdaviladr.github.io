@@ -1,5 +1,5 @@
 ---
-title: "Dirección de tesis: Determinación del factor de forma del pion"
+title: "Dirección de tesis de Licenciatura: Determinación del factor de forma del pion"
 collection: teaching
 type: "Tesis de licenciatura"
 permalink: /teaching/2025-factor-forma-pion
@@ -9,8 +9,6 @@ location: "Toluca, México"
 ---
 
 **Estudiante:** Luis Gerardo Ramírez Archundia
-
-**Grado:** Licenciatura en Física
 
 **Directores de tesis**
 
