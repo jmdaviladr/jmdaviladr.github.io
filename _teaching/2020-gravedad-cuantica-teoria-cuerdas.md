@@ -38,10 +38,8 @@ La tesis desarrolla los siguientes temas principales:
 
 Este trabajo presenta una introducción conceptual y técnica al problema de la gravedad cuántica desde la perspectiva de la teoría de cuerdas, mostrando cómo las ecuaciones de la Relatividad General pueden surgir como el límite efectivo de bajas energías de una teoría cuántica más fundamental.
 
-## Acceso a la tesis
+## Documento
 
-- 📖 **Leer tesis:**  
-  [Abrir PDF](../../files/2020-gravedad-cuantica-teoria-cuerdas.pdf)
+📄 **Tesis completa en PDF**
 
-- ⬇ **Descargar tesis:**  
-  [Descargar PDF](../../files/2020-gravedad-cuantica-teoria-cuerdas.pdf)
+[⬇ Descargar tesis](/files/2020-gravedad-cuantica-teoria-cuerdas.pdf)
