@@ -9,7 +9,7 @@ location: "Toluca, México"
 ---
 
 **Estudiante:** Fabiola Correa Padilla  
-**Grado:** Licenciatura en Física  
+
 
 **Directores de tesis:**
 
