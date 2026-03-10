@@ -17,11 +17,11 @@ location: "Toluca, México"
 
 ### Descripción
 
-En este trabajo de tesis se estudia la obtención de las ecuaciones de la Relatividad General de Albert Einstein a partir de la cuantización de una cuerda relativista. El estudio enfatiza cómo la teoría de cuerdas constituye una propuesta viable para una teoría cuántica de la gravedad. :contentReference[oaicite:1]{index=1}  
+En este trabajo de tesis se estudia la obtención de las ecuaciones de la Relatividad General de Albert Einstein a partir de la cuantización de una cuerda relativista. El estudio enfatiza cómo la teoría de cuerdas constituye una propuesta viable para una teoría cuántica de la gravedad. 
 
-En particular, se muestra que uno de los estados no masivos que aparecen en el proceso de cuantización de la cuerda corresponde al **gravitón**, interpretado como el cuanto asociado a la interacción gravitacional. :contentReference[oaicite:2]{index=2}  
+En particular, se muestra que uno de los estados no masivos que aparecen en el proceso de cuantización de la cuerda corresponde al **gravitón**, interpretado como el cuanto asociado a la interacción gravitacional. 
 
-El trabajo se centra en el sector bosónico de la teoría de cuerdas y no considera la inclusión de fermiones, dado que el gravitón surge precisamente de dicho sector. :contentReference[oaicite:3]{index=3}  
+El trabajo se centra en el sector bosónico de la teoría de cuerdas y no considera la inclusión de fermiones, dado que el gravitón surge precisamente de dicho sector.
 
 ### Contenido del trabajo
 
