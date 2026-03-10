@@ -8,7 +8,6 @@ date: 2025-01-01
 location: "Estado de México, México"
 ---
 
-## Dirección de tesis de licenciatura
 
 **Estudiante:** Jesús Emmanuel Gómez Vargas  
 **Título de la tesis:** *Correcciones cuánticas de la electrodinámica*  
