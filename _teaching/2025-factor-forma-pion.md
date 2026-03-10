@@ -1,5 +1,5 @@
 ---
-title: "Dirección de tesis de Licenciatura: Determinación del factor de forma del pion"
+title: "Dirección de tesis de licenciatura: Determinación del factor de forma del pion"
 collection: teaching
 type: "Tesis de licenciatura"
 permalink: /teaching/2025-factor-forma-pion
