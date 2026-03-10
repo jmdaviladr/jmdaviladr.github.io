@@ -8,7 +8,6 @@ date: 2020-11-01
 location: "Toluca, México"
 ---
 
-## Dirección de tesis de licenciatura
 
 **Estudiante:** Antonio Carlos Samaniego Flores  
 **Título de la tesis:** *Gravedad cuántica en teoría de cuerdas*  
