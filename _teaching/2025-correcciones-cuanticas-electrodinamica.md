@@ -10,7 +10,7 @@ location: "Estado de México, México"
 
 
 **Estudiante:** Jesús Emmanuel Gómez Vargas   
-**Grado:** Licenciatura en Física  
+
 
 **Directores de tesis:**  
 - Dr. Cristhiam Manuel López Arcos  
