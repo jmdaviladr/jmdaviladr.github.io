@@ -9,8 +9,7 @@ location: "Estado de México, México"
 ---
 
 
-**Estudiante:** Jesús Emmanuel Gómez Vargas  
-**Título de la tesis:** *Correcciones cuánticas de la electrodinámica*  
+**Estudiante:** Jesús Emmanuel Gómez Vargas   
 **Grado:** Licenciatura en Física  
 
 **Directores de tesis:**  
