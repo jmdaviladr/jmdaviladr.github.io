@@ -9,7 +9,6 @@ location: "Toluca, México"
 ---
 
 **Estudiante:** Fabiola Correa Padilla  
-**Título de la tesis:** *Función de masa y las constantes de renormalización de la Cromodinámica Cuántica*  
 **Grado:** Licenciatura en Física  
 
 **Directores de tesis:**
